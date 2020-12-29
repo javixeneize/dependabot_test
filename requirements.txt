@@ -1,4 +1,4 @@
 validators>=0.14.3
-requests==1.2.3
+requests==1.2.4
 urllib3>=1.25.9
 tldextract>=2.2.3
